@@ -5,5 +5,7 @@ This is a Python script that read specific sheet and columns of an Excel file an
 ## Requirements
 
 pip3 install panda
+
 pip3 install xlrd
+
 pip3 install openpyxl
